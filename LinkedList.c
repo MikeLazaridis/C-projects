@@ -1,3 +1,6 @@
+//This program implements a singly linked list in C
+//It allows insertion of nodes, deletion of nodes, and traversal of the list.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
