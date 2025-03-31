@@ -1,3 +1,6 @@
+//This program implements a binary search tree in C.
+//It allows insertion of nodes, searching for nodes, and printing the tree in different orders (in-order, pre-order, post-order).
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
